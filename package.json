@@ -1,0 +1,13 @@
+{
+  "name": "airball",
+  "version": "1.0.0",
+  "description": "AIRBALL — 2 Player Basketball",
+  "scripts": {
+    "dev": "vite --port 8080 --host",
+    "build": "vite build",
+    "preview": "vite preview --port 8080"
+  },
+  "devDependencies": {
+    "vite": "^6.0.0"
+  }
+}

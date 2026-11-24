@@ -1,0 +1,14 @@
+# Dependencies
+node_modules/
+.vite/
+
+# Production build
+dist/
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS artifacts
+.DS_Store
+Thumbs.db
